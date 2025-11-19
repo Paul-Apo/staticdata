@@ -1,0 +1,38 @@
+{
+    "user1": [
+      {
+        "customerId": 200,
+        "slot_time": "Friday",
+        "doctor": ""
+      }
+    ],
+    "user2": [
+      {
+        "customerId": 201,
+        "slot_time": "Saturday",
+        "doctor": ""
+      }
+    ],
+    "user3": [
+      {
+        "customerId": 202,
+        "slot_time": "Sunday",
+        "doctor": ""
+      }
+    ],
+    "user4": [
+      {
+        "customerId": 203,
+        "slot_time": "Monday",
+        "doctor": ""
+      }
+    ],
+    "user5": [
+      {
+        "customerId": 204,
+        "slot_time": "Tuesday",
+        "doctor": ""
+      }
+    ]
+  }
+  
